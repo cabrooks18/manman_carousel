@@ -39,7 +39,7 @@ function App() {
   ];
 
   const captionStyle = {
-    fontSize: '2em',
+    fontSize: '1em',
     fontWeight: 'bold',
   }
   const slideNumberStyle = {
