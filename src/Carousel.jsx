@@ -3,10 +3,7 @@ import { Carousel } from 'react-carousel-minimal';
 
 function App() {
  const data = [
-    // {
-    //   image: <img scr = "c.\user\image000001.jpg",
-    //   caption: "Salad"
-    // },
+   
     {
       image: "https://photos.google.com/photo/AF1QipN_HY0Cg_Fff2VFu1A-RPJ1z2wTP5MCsBUrRHz-",
       caption: "Son"
