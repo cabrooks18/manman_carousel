@@ -24,10 +24,10 @@ function App() {
       image: "https://photos.google.com/photo/AF1QipOSMg0WYXjlZrBvwOekalSP9ToST1JgCvaegdOY",
       caption: "Boss Lady"
     },
-    // {
-    //   image: "httphttps://photos.google.com/photo/AF1QipPgZQCzaKoFIl1fYlIsix5WCeLaN-_Rw2weh9qXs://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
-    //   caption: "Us"
-    // },
+    {
+      image: "httphttps://photos.google.com/photo/AF1QipPgZQCzaKoFIl1fYlIsix5WCeLaN-_Rw2weh9qXs://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      caption: "Us"
+    },
     {
       image: "https://photos.google.com/photo/AF1QipMZ633d8AWpTFMiScPVuIOJsIfUa2nZ_c32wB-l",
       caption: "Son2"
@@ -67,7 +67,7 @@ function App() {
             dots={true}
             pauseIconColor="white"
             pauseIconSize="40px"
-            slideBackgroundColor="darkgrey"
+            // slideBackgroundColor="darkgrey"
             slideImageFit="cover"
             // thumbnails={true}
             //  thumbnailWidth="100px"
